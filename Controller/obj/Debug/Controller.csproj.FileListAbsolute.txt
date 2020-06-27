@@ -1,0 +1,10 @@
+E:\VS2013 debug\Controller\Controller\bin\Debug\Controller.exe.config
+E:\VS2013 debug\Controller\Controller\bin\Debug\Controller.exe
+E:\VS2013 debug\Controller\Controller\bin\Debug\Controller.pdb
+E:\VS2013 debug\Controller\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+E:\VS2013 debug\Controller\Controller\obj\Debug\Controller.MainForm.resources
+E:\VS2013 debug\Controller\Controller\obj\Debug\Controller.Properties.Resources.resources
+E:\VS2013 debug\Controller\Controller\obj\Debug\Controller.csproj.GenerateResource.Cache
+E:\VS2013 debug\Controller\Controller\obj\Debug\Controller.exe
+E:\VS2013 debug\Controller\Controller\obj\Debug\Controller.pdb
+E:\VS2013 debug\Controller\Controller\obj\Debug\Controller.About.resources
